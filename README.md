@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simark123
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning arduino and C programming language
+- 👀 I’m interested computer science and programming 
+- 🌱 I have learned how to code c++ and python and continuing to learn more about other languages.
 - 📫 How to reach me simarkhaira5@gmail.com
 
 <!---
